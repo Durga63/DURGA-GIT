@@ -1,0 +1,40 @@
+/*commenting in css*/
+p{
+    text-indent: 35px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 800px;
+    background-color: darkseagreen;
+    padding: 20px;
+    line-height: 30px;
+   border: 10px solid brown;
+    
+}
+.box{
+    background-color: blueviolet;
+    width: 500px;
+    margin-left: 50px;
+    line-height: 30px;
+    padding: 20px;
+    border: 10px solid brown;
+}
+body{
+    background-color:white;
+}
+h1{
+    background-color: black;
+    color: white;
+    display:inline;/*for background color not to take entire width*/
+    text-align: center;
+    margin-left: 600px;
+}
+table{
+    display: table;
+    border: 1px solid black;
+}
+tr{
+    display: table-row;
+}
+   
+    
+    
